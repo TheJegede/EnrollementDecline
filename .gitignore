@@ -1,0 +1,35 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Vector store — exclude ChromaDB binary store, commit FAISS fallback for Streamlit Cloud
+data/vector_db/*
+!data/vector_db/faiss.index
+!data/vector_db/faiss_meta.pkl
+
+# Large raw IPEDS exports (re-download via notebook 01)
+data/raw/ipeds/*.csv
+data/raw/ipeds/*.zip
+
+# Model artifacts committed (lead_scoring.pkl ~3MB, yield_prediction.pkl ~2MB)
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Claude Code local state
+.claude/

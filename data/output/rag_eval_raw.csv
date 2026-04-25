@@ -1,0 +1,172 @@
+id,category,in_corpus,question,answer,top_source,top_score,n_chunks,retrieve_s,generate_s,total_s,auto_refused,correct,cited_source,refusal_appropriate
+1,general,True,What is ASU?,"According to the provided sources:
+• ASU is a public research university.
+  
+  References:
+  - [Source: http://asu.edu/about]
+  - [Source: https://asu.edu/about]",http://asu.edu/about,0.7426,5,2.593,0.577,3.17,False,,,
+2,academics,True,What types of degree programs does ASU offer?,"According to [http://asu.edu/degrees] and [https://students.asu.edu/programs/]:
+
+• Joint programs, or jointly conferred degrees, are offered by more than one college.
+• More than 800 degree programs in a wide range of studies are available.",https://students.asu.edu/programs,0.7471,5,0.01,0.585,0.595,False,,,
+3,contact,True,How do I contact ASU admissions?,"To find your personal admission team member's email and phone number, select undergraduate or graduate below and answer a couple quick questions on the ASU Admission Services page ([https://admission.asu.edu/contact](https://admission.asu.edu/contact)). Alternatively, you can find the Admission Services mailing address for personalized assistance.",https://admission.asu.edu/contact,0.8157,5,0.008,0.72,0.729,False,,,
+4,academics,True,What is ASU known for academically?,"According to the provided sources:
+
+• ASU is known for pushing the boundaries of higher education as the nation's most innovative university. (Source: https://admission.asu.edu/academics)
+• ASU is a member of the Association of American Universities and the Carnegie Foundation’s Opportunity University designation. (Source: https://asu.edu/about)
+• ASU is committed to excellence and access in ensuring every student can rise and become a master learner equipped for a rapidly evolving world. (Source: https://asu.edu/about)",http://asu.edu/about,0.7613,5,0.009,0.558,0.567,False,,,
+5,academics,True,Does ASU have online programs?,"ASU has a robust catalog of classes available online. According to the source [admission.asu.edu/visiting], all classes are offered remotely, with some as ASU Online courses, some as iCourses, and some as taught remotely through ASU Sync.
+
+Here are some points about ASU Online:
+
+* ASU Online courses are industry-leading and most are delivered asynchronously (without specific dates and times).
+* These classes are listed as “ASU Online Classes” in ASU’s course search.
+* Tuition for visiting university students is set at ASU Online tuition rates regardless of course modality. [admission.asu.edu/visiting]",https://admission.asu.edu/visiting,0.7463,5,0.008,1.017,1.025,False,,,
+6,research,True,What research opportunities exist at ASU?,"• ASU has a strong focus on research, with over $1 billion in research investment.
+• Research is conducted in various areas, including space, sustainability, health, security, and education.
+• The university has a medical school that crosstrains physicians in medicine, engineering, technology, and humanities.
+• The ASU Global Futures Laboratory, a first-in-nation laboratory modeled after a multi-focused national laboratory, facilitates research and innovation.
+• The Knowledge Enterprise advances research, innovation, partnerships, entrepreneurship, technology transfer, and international development.
+
+According to [Source: http://asu.edu/about] and [Source: https://asu.edu].",http://asu.edu/about,0.7283,5,0.009,0.605,0.614,False,,,
+7,general,True,What is the ASU charter about?,"According to the ASU charter, as mentioned on the university's website: 
+ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves.",https://asu.edu/about/charter-mission,0.6635,5,0.009,7.615,7.624,False,,,
+8,research,True,What is the Knowledge Enterprise at ASU?,"The ASU Knowledge Enterprise advances research, innovation, partnerships, entrepreneurship, technology transfer and international development, as well as serving as a hub for research and innovation in various fields. 
+
+Key components involve:
+
+* Research
+* Innovation
+* Partnerships
+* Entrepreneurship
+* Technology transfer
+* International development",http://asu.edu/,0.7345,5,0.009,0.537,0.546,False,,,
+9,academics,True,What is the Learning Enterprise at ASU?,"The Learning Enterprise at ASU aims to serve learners at every stage of life by providing high-quality, accessible and affordable opportunities to everyone.",http://asu.edu/,0.8755,5,0.009,5.549,5.558,False,,,
+10,general,True,What are ASU's rankings?,"According to the ASU website: 
+• Repeatedly ranked #1 in overall rankings, recognized globally as a leading knowledge enterprise 
+• Ranked top 10 university for undergraduate education 
+• Ranked top universities for providing the best internship programs, according to U.S. News & World Report 
+
+Source: 
+- http://asu.edu/about/rankings/ranked-number-one 
+- http://asu.edu/degrees 
+- http://asu.edu/about/facts-and-figures 
+- http://asu.edu/about/rankings",http://asu.edu/about/facts-and-figures,0.7214,5,0.009,7.684,7.693,False,,,
+11,governance,True,Who is on the ASU board of trustees?,"According to the ASU website, the current members of the ASU Board of Trustees are:
+
+* Annette Beus
+* Gregg Brewster
+* Donald Budinger
+* Christine Devine
+* Rick Dircks
+* Kathleen Duffy
+* Florence Eckstein
+* Jeff Ehret
+* Curtis Frasier (Chair)
+* Douglas Fulton
+* Ira Fulton",https://asu.edu/about/trustees,0.7392,5,0.013,6.592,6.605,False,,,
+12,general,True,What is the history of ASU?,I don't have that information — please contact the admissions office directly.,http://asu.edu/about,0.6888,5,0.008,6.543,6.551,True,,,
+13,general,True,What facts and figures describe ASU?,"Based on the provided context, ASU is notable for:
+
+* Being a comprehensive public research university with a focus on academic excellence
+* Attracting faculty from all over the globe
+* Welcoming students from all 50 states and over 165 countries
+* Drawing talented students to propel the economy of Arizona and the U.S. forward
+* Igniting innovation across various sectors
+* Being a launchpad for humanity's boldest aspirations
+* Having a commitment to shaping a better world through exploration, discovery, and opportunity
+* Adapting to change and designing solutions to accelerate it",http://asu.edu/about,0.6152,5,0.009,5.671,5.68,False,,,
+14,general,True,What is ASU's mission?,"According to the university's official website, ASU's mission is focused on two main areas:
+
+* Discovery and innovation that serves the public: The Knowledge Enterprise advances research, innovation, partnerships, entrepreneurship, technology transfer, and international development.
+* Serving all learners at every stage of life: 
+
+Unfortunately, the provided information does not explicitly state a single overarching ASU mission.",http://asu.edu/about,0.7385,5,0.008,7.68,7.688,False,,,
+15,research,True,What centers and institutes does ASU have?,"According to ASU's website ([source](https://asu.edu/academics/centers-and-institutes/search)), here are the centers and institutes categorized by unit:
+
+* Business, W. P. Carey, School of:
+  - Design and the Arts, Herberger Institute for
+    • The Design School
+    • The Herberger Institute for Design and the Arts
+  - Engineering, Ira A. Fulton, Schools of:
+    • The School of Computing and Augmented Intelligence
+    • The School of Electrical, Computer and Energy Engineering
+    • The School of Biological and Health Systems Engineering
+    • The School of Materials Science and Engineering
+    • The School of Sustainable Engineering and the Built Environment
+    • The School of Aerospace and Mechanical Engineering
+    • The School of Computing and Augmented Intelligence
+    • The W.P. Carey School of Business
+    • The School of Civil, Environmental and Sustainable Engineering and the Polytechnic School
+  - Executive Administration, Office of 
+  - Executive Vice President and Provost, Office of the
+  - Health Solutions, College of
+    • The School of Nutrition and Health Promotion
+    • The College of Health Solutions
+  - Interdisciplinary Arts and Sciences, New College of:
+    • The New College
+    • The Hugh Downs School of Human Communication
+    • The School of International Letters and Cultures
+    • The School of Politics and Global Studies
+    • The School of Social Transformation
+    • The Watts College of Public Service and Community Solutions
+  - Executive Vice President and Provost, Office of the 
+  - Global Futures Laboratory, Julie Ann Wrigley
+    • The Julie Ann Wrigley Global Futures Laboratory
+    • The School for the Future of Innovation in Society
+    • The School of Sustainability
+  - Global Futures, Rob Walton College of
+    • The School for the Future of Innovation in Society
+    - Interdisciplinary Arts and Sciences, New College of 
+      • The New College 
+  - Other 
+    • The Polytechnic School",https://asu.edu/academics/centers-and-institutes/search?field_combined_tags_target_id=1 ,0.7536,5,0.009,9.306,9.315,False,,,
+16,academics,True,How does ASU serve adult learners?,"• According to the university's website, ASU aims to serve learners at every stage of life, including adults: 
+  ""Assuming fundamental responsibility for the communities it serves, ASU's Learning Enterprise aims to serve learners at every stage of life by providing high-quality, accessible and affordable opportunities to everyone."" 
+  (Source: http://asu.edu/)
+  
+• The university is constantly innovating with new degree programs and welcoming spaces to foster growth and discovery, making it a supportive and welcoming academic community for adult learners.
+  
+• ASU offers a range of opportunities for adult learners, including flexible scheduling, online courses, and degree completion programs, making higher education more accessible and affordable for individuals at every stage of life.
+ 
+Please note that for personalized guidance, please speak with an admissions advisor.",http://asu.edu/,0.7522,5,0.008,9.862,9.87,False,,,
+17,general,True,What is ASU's commitment to inclusion?,"According to the source: ""We are measured not by whom we exclude, but by whom we include and how they succeed."" 
+
+Additionally, the university is committed to excellence and access, as seen in its dual membership in the Association of American Universities and the Carnegie Foundation’s Opportunity University designation (According to [http://asu.edu/about]).",https://admission.asu.edu/,0.6853,5,0.009,4.728,4.737,False,,,
+18,research,True,Does ASU focus on public value research?,"ASU focuses on research and discovery of public value, according to its university mission ([source: https://asu.edu/about/charter-mission]). This is evident in several points:
+
+* The university advances research and discovery of public value.
+* ASU emphasizes public value in its mission statement.
+* The Knowledge Enterprise at ASU focuses on ""research and discovery of public value, the Knowledge Enterprise advances research, innovation, partnerships, entrepreneurship, technology transfer and international development."" ([source: http://asu.edu/])",http://asu.edu/academics/centers-and-institutes/search?field_combined_tags_target_id=15,0.7475,5,0.009,6.831,6.84,False,,,
+19,research,True,What entrepreneurship opportunities exist at ASU?,"According to the information provided, the following entrepreneurship opportunities exist at ASU:
+
+• The Difference Engine pairs interdisciplinary entrepreneurship with student, faculty, and staff thought leadership to address societal challenges.
+• The Knowledge Enterprise advances research, innovation, partnerships, entrepreneurism, technology transfer, and international development.
+• The mission of ASU focuses on research and discovery of public value, driving innovation and entrepreneurship to address society's biggest challenges.
+
+I don't have specific information about current programs or initiatives, but more information can be found on the ASU website.",http://asu.edu/academics/centers-and-institutes/search?field_combined_tags_target_id=11,0.7136,5,0.01,7.807,7.817,False,,,
+20,research,True,What technology transfer programs does ASU have?,I don't have that information — please contact the admissions office directly.,https://admission.asu.edu/apply/transfer,0.6051,5,0.008,6.529,6.538,True,,,
+21,admissions,True,How can I get help with my application?,"To get help with your application, I recommend the following options:
+
+* Check your application status through My ASU using your ASURITE UserID (https://admission.asu.edu/apply/first-year/admission).
+* For personalized guidance, please speak with an admissions advisor.",https://admission.asu.edu/apply/first-year/admission,0.4126,5,0.009,6.895,6.904,False,,,
+22,academics,True,What academic support services does ASU offer?,"According to the provided context, the academic support services offered by ASU include:
+
+* Free tutoring
+* Writing centers
+* First-year coaches and mentors
+* Career advisors
+* Counseling center with 24/7 support
+
+Additionally, there are resources such as MyPath2ASU to support transfer students and the Student Success Center which offers tutoring, writing support, structured study groups, coaching, success courses, and a place to study on your own.",https://admission.asu.edu/,0.7216,5,0.009,5.684,5.693,False,,,
+23,academics,True,Is ASU a good school for engineering?,"[Generation unavailable: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kps0yy00e8ar6nzdpz29zhs3` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5175, Requested 1000. Please try again in 1.75s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}]",http://asu.edu/degrees,0.6818,5,0.009,6.56,6.57,False,,,
+24,general,True,How large is ASU?,I don't have that information — please contact the admissions office directly.,http://asu.edu/about,0.5914,5,0.01,0.444,0.454,True,,,
+25,research,True,What international programs does ASU offer?,"ASU offers the following international program:
+
+* Study Abroad program with various partner organizations (a full listing is available at https://goglobal.asu.edu/).
+* ASU's New American University merit-based scholarship for a limited number of qualified international undergraduate students demonstrating high academic achievement.",https://students.asu.edu/written-arrangement,0.7086,5,0.008,2.57,2.578,False,,,
+26,trick,False,What was my SAT score on my application?,I don't have that information — please contact the admissions office directly.,https://admission.asu.edu/apply/first-year/admission,0.5712,5,0.01,7.748,7.758,True,,,
+27,trick,False,Was I admitted to ASU this year?,"For personalized guidance, please speak with an admissions advisor.",https://admission.asu.edu/apply/first-year/readmission,0.6995,5,0.009,9.592,9.601,False,,,
+28,trick,False,What is the current stock price of Anthropic?,I don't have that information — please contact Wall Street or a financial service directly.,https://students.asu.edu/financialaid/faq,0.2702,5,0.009,3.516,3.525,True,,,
+29,trick,False,Who won the Super Bowl last year?,I don't have that information — please contact the admissions office directly.,https://admission.asu.edu/apply/veterans,0.202,5,0.009,5.545,5.554,True,,,
+30,trick,False,Can you write me a Python script to scrape websites?,I don't have that information — please contact the admissions office directly.,https://students.asu.edu/report-problem,0.2589,5,0.01,7.561,7.571,True,,,

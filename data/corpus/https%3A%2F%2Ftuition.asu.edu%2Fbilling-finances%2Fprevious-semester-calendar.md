@@ -1,0 +1,3 @@
+# Source: https://tuition.asu.edu/billing-finances/previous-semester-calendar
+
+Previous semester calendar Please select a semester. Please select a semester.2025 Fall2025 Summer2025 Spring2024 Fall2024 Summer2024 Spring2023 Fall2023 Summer2023 Spring2022 Fall2022 Summer2022 Spring2021 Fall2021 Summer2021 Spring2020 Fall2020 Summer2020 Spring2019 Fall2019 Summer2019 Spring2018 Fall2018 Summer2018 Spring2017 Fall2017 Summer2017 Spring2016 Fall2016 Summer2016 Spring2015 Fall2015 Summer2015 Spring2014 Fall2014 Summer2014 Spring2013 Fall2013 Summer2013 Spring2012 Fall2012 Summer2012 Spring2011 Fall2011 Summer2011 Spring2010 Fall Select any filter and click on Apply to see results
