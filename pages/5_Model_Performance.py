@@ -184,7 +184,7 @@ with tab3:
     ]:
         img_path = OUTPUT_DIR / img_name
         if img_path.exists():
-            st.image(str(img_path), caption=title, use_container_width=False, width=500)
+            st.image(str(img_path), caption=title, width=500)
         else:
             st.info(f"{img_name} not found — run notebooks/03 and 04 first.")
 
