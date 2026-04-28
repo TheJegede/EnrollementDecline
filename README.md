@@ -6,7 +6,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.39-FF4B4B.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**[Live Dashboard →](https://share.streamlit.io)** *(deploy instructions below)*
+**[Live Dashboard →] is (https://enrollementdecline.streamlit.app/)*
 
 ---
 
