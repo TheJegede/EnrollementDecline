@@ -30,6 +30,3 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
-
-# Claude Code local state
-.claude/
